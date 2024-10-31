@@ -67,3 +67,29 @@ Codes executed:
 SALES DATA ANALYSIS & VISUALIZATION
 Used case- Processing, analysing and visualizing the sales data.
 Libraries used - Pandas, Matplotlib, Seaborn
+
+DATA VISUALIZATION STATISTICAL
+Used case - used for creating visually appealing, statistically plots with minimal code.
+Library used - seaborn
+Codes Executed:
+1. Bar plot
+2. Box plot
+3. Boxen plot
+4. Cat plot
+5. Count plot
+6. Facegrid
+7. Heatmap
+8. Histogram
+9. Joint plot
+10. KDE Plot
+11. Line plot
+12. Pair plot
+13. Pair+grid
+14. Point plot
+15. Regression plot
+16. Scatter plot
+17. Strip plot
+18. Swarn plot
+19. Violin plot
+
+
