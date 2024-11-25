@@ -92,4 +92,22 @@ Codes Executed:
 18. Swarn plot
 19. Violin plot
 
-
+FINAL_PROJECT
+Use Case - I have done data analysis and visualization on Auto sales data. Also I have predicted the future sales value using Machine Learning (Facebook Prophet).
+Library Used - pandas, matplotlib, numpy, seaborn, plotly and facebook prophet
+Code Executed:
+1. Data Loading
+2. Basic Analysis of data like shape and information
+3. Renaming of Columns
+4. Descriptive Summary of both numerical and categorical columns
+5. Dropping unnecessary columns
+6. Checking and adjusting Null values
+7. Bar and line plot
+8. Line plot
+9. Multiple line plot
+10. Multiple bar chart
+11. Pie plot
+12. Treemap plot
+13. Regression plot
+14. Pair plot
+15. Prophet for ML
