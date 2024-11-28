@@ -1,7 +1,7 @@
 ## DATA OPERATIONS
-**Use case** - Learning how to perform arithmetic & modulus operations. Its widely used in scientific computing which supports arrays and matrices along with large collection of high level mathematical functions to operate on these 
-**Library used** - Numpy
-**Codes Executed:**
+**Use case** - Learning how to perform arithmetic & modulus operations. Its widely used in scientific computing which supports arrays and matrices along with large collection of high level mathematical functions to operate on these. <br> 
+**Library used** - Numpy <br>
+**Codes Executed:** <br>
 1. Linear regression
 2. Logistic regression
 3. Euclidean Distance
@@ -11,18 +11,18 @@
 7. SVM
 
 ## DATA PROCESSING
-**Use case** - It's used for manipulating, transforming and analysing data.
-**Library used** - Pandas
-**Codes Executed:**
+**Use case** - It's used for manipulating, transforming and analysing data. <br>
+**Library used** - Pandas <br>
+**Codes Executed:** <br>
 1. Reading a file(.csv,.xlx, etc.)
 2. Executing and Extracting the headings
 3. Updating existing columns name
 4. Data cleaning
 
 ## DATA VISUALIZATION
-**Use case** - It's used for visualizing the data for better understanding.
-**Library used** - Matplotlib
-**Codes Executed:**
+**Use case** - It's used for visualizing the data for better understanding. <br>
+**Library used** - Matplotlib <br>
+**Codes Executed:** <br>
 1. Simple line plot
 2. Scatter plot
 3. Bar Plot
@@ -35,9 +35,9 @@
 10. Plotting with Annotation
 
 ## DEEP LEARNING IMAGE PROCESSING
-**Use case** - Digitizing and executing images with the help of vision(Deep learning/CNN) framework/libraries.
-**Library used** - Opencv
-**Codes Executed:**
+**Use case** - Digitizing and executing images with the help of vision(Deep learning/CNN) framework/libraries. <br>
+**Library used** - Opencv <br>
+**Codes Executed:** <br>
 1. Image reading
 2. Image crop
 3. Image resizing
@@ -55,9 +55,9 @@
 15. Morphological operation
 
 ## DEEP LEARNING VIDEO PROCESSING
-**Use case** - Digitizing and executing videos with the help of vision(Deep learning/CNN) framework/libraries.
-**Library used** - Opencv
-**Codes Executed:**
+**Use case** - Digitizing and executing videos with the help of vision(Deep learning/CNN) framework/libraries. <br>
+**Library used** - Opencv <br>
+**Codes Executed:** <br>
 1. Video streaming
 2. Video stacking
 3. Video saving
@@ -65,13 +65,13 @@
 5. Multiple video streaming
 
 ## SALES DATA ANALYSIS & VISUALIZATION
-**Use case**- Processing, analysing and visualizing the sales data.
-**Library used** - Pandas, Matplotlib, Seaborn
+**Use case**- Processing, analysing and visualizing the sales data. <br>
+**Library used** - Pandas, Matplotlib, Seaborn <br>
 
 ## DATA VISUALIZATION STATISTICAL
-**Use case** - used for creating visually appealing, statistically plots with minimal code.
-**Library used** - seaborn
-**Codes Executed:**
+**Use case** - used for creating visually appealing, statistically plots with minimal code. <br>
+**Library used** - seaborn <br>
+**Codes Executed:** <br>
 1. Bar plot
 2. Box plot
 3. Boxen plot
@@ -93,9 +93,9 @@
 19. Violin plot
 
 ## DATA_VISTA_FINAL_PROJECT
-**Use case** - I have done data analysis and visualization on Auto sales data. Also I have predicted the future sales value using Machine Learning (Facebook Prophet).
-**Library used** - pandas, matplotlib, numpy, seaborn, plotly and facebook prophet
-**Codes Executed:**
+**Use case** - I have done data analysis and visualization on Auto sales data. Also I have predicted the future sales value using Machine Learning (Facebook Prophet). <br>
+**Library used** - pandas, matplotlib, numpy, seaborn, plotly and facebook prophet <br>
+**Codes Executed:** <br>
 1. Data Loading
 2. Basic Analysis of data like shape and information
 3. Renaming of Columns
