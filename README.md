@@ -1,7 +1,7 @@
-DATA OPERATIONS
-Use case - Learning how to perform arithmetic & modulus operations. Its widely used in scientific computing which supports arrays and matrices along with large collection of high level mathematical functions to operate on these 
-Library used - Numpy
-Codes Executed:
+## DATA OPERATIONS
+**Use case** - Learning how to perform arithmetic & modulus operations. Its widely used in scientific computing which supports arrays and matrices along with large collection of high level mathematical functions to operate on these 
+**Library used** - Numpy
+**Codes Executed:**
 1. Linear regression
 2. Logistic regression
 3. Euclidean Distance
@@ -10,19 +10,19 @@ Codes Executed:
 6. Naive bayes classifier
 7. SVM
 
-DATA PROCESSING
-Use case - It's used for manipulating, transforming and analysing data.
-Library Used - Pandas
-Codes Executed:
+## DATA PROCESSING
+**Use case** - It's used for manipulating, transforming and analysing data.
+**Library used** - Pandas
+**Codes Executed:**
 1. Reading a file(.csv,.xlx, etc.)
 2. Executing and Extracting the headings
 3. Updating existing columns name
 4. Data cleaning
 
-DATA VISUALIZATION
-Use case - It's used for visualizing the data for better understanding.
-Library used - Matplotlib
-Codes executed:
+## DATA VISUALIZATION
+**Use case** - It's used for visualizing the data for better understanding.
+**Library used** - Matplotlib
+**Codes Executed:**
 1. Simple line plot
 2. Scatter plot
 3. Bar Plot
@@ -34,10 +34,10 @@ Codes executed:
 9. Logarithmic scale
 10. Plotting with Annotation
 
-DEEP LEARNING IMAGE PROCESSING
-Use case - Digitizing and executing images with the help of vision(Deep learning/CNN) framework/libraries.
-Library used - Opencv
-Codes executed:
+## DEEP LEARNING IMAGE PROCESSING
+**Use case** - Digitizing and executing images with the help of vision(Deep learning/CNN) framework/libraries.
+**Library used** - Opencv
+**Codes Executed:**
 1. Image reading
 2. Image crop
 3. Image resizing
@@ -54,24 +54,24 @@ Codes executed:
 14. Canny edge detection
 15. Morphological operation
 
-DEEP LEARNING VIDEO PROCESSING
-Use case - Digitizing and executing videos with the help of vision(Deep learning/CNN) framework/libraries.
-Library used - Opencv
-Codes executed:
+## DEEP LEARNING VIDEO PROCESSING
+**Use case** - Digitizing and executing videos with the help of vision(Deep learning/CNN) framework/libraries.
+**Library used** - Opencv
+**Codes Executed:**
 1. Video streaming
 2. Video stacking
 3. Video saving
 4. Frames per second
 5. Multiple video streaming
 
-SALES DATA ANALYSIS & VISUALIZATION
-Used case- Processing, analysing and visualizing the sales data.
-Libraries used - Pandas, Matplotlib, Seaborn
+## SALES DATA ANALYSIS & VISUALIZATION
+**Use case**- Processing, analysing and visualizing the sales data.
+**Library used** - Pandas, Matplotlib, Seaborn
 
-DATA VISUALIZATION STATISTICAL
-Used case - used for creating visually appealing, statistically plots with minimal code.
-Library used - seaborn
-Codes Executed:
+## DATA VISUALIZATION STATISTICAL
+**Use case** - used for creating visually appealing, statistically plots with minimal code.
+**Library used** - seaborn
+**Codes Executed:**
 1. Bar plot
 2. Box plot
 3. Boxen plot
@@ -92,10 +92,10 @@ Codes Executed:
 18. Swarn plot
 19. Violin plot
 
-FINAL_PROJECT
-Use Case - I have done data analysis and visualization on Auto sales data. Also I have predicted the future sales value using Machine Learning (Facebook Prophet).
-Library Used - pandas, matplotlib, numpy, seaborn, plotly and facebook prophet
-Code Executed:
+## DATA_VISTA_FINAL_PROJECT
+**Use case** - I have done data analysis and visualization on Auto sales data. Also I have predicted the future sales value using Machine Learning (Facebook Prophet).
+**Library used** - pandas, matplotlib, numpy, seaborn, plotly and facebook prophet
+**Codes Executed:**
 1. Data Loading
 2. Basic Analysis of data like shape and information
 3. Renaming of Columns
