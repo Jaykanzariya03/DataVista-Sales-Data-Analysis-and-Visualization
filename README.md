@@ -1,7 +1,12 @@
+# DATA_VISTA_FINAL_PROJECT
+**Use case** - I have done data analysis and visualization on Auto sales data. Also I have predicted the future sales value using Machine Learning (Facebook Prophet). <br>
+**Dataset** - Auto sales data (https://www.kaggle.com/datasets/ddosad/auto-sales-data/data) <br>
+**Library used** - pandas, matplotlib, numpy, seaborn, plotly and facebook prophet.
+
 ## DATA OPERATIONS
 **Use case** - Learning how to perform arithmetic & modulus operations. Its widely used in scientific computing which supports arrays and matrices along with large collection of high level mathematical functions to operate on these. <br> 
 **Library used** - Numpy <br>
-**Codes Executed:** <br>
+**Codes Executed:** 
 1. Linear regression
 2. Logistic regression
 3. Euclidean Distance
@@ -12,8 +17,8 @@
 
 ## DATA PROCESSING
 **Use case** - It's used for manipulating, transforming and analysing data. <br>
-**Library used** - Pandas <br>
-**Codes Executed:** <br>
+**Library used** - Pandas <br> 
+**Codes Executed:** 
 1. Reading a file(.csv,.xlx, etc.)
 2. Executing and Extracting the headings
 3. Updating existing columns name
@@ -22,7 +27,7 @@
 ## DATA VISUALIZATION
 **Use case** - It's used for visualizing the data for better understanding. <br>
 **Library used** - Matplotlib <br>
-**Codes Executed:** <br>
+**Codes Executed:** 
 1. Simple line plot
 2. Scatter plot
 3. Bar Plot
@@ -37,7 +42,7 @@
 ## DEEP LEARNING IMAGE PROCESSING
 **Use case** - Digitizing and executing images with the help of vision(Deep learning/CNN) framework/libraries. <br>
 **Library used** - Opencv <br>
-**Codes Executed:** <br>
+**Codes Executed:**
 1. Image reading
 2. Image crop
 3. Image resizing
@@ -57,7 +62,7 @@
 ## DEEP LEARNING VIDEO PROCESSING
 **Use case** - Digitizing and executing videos with the help of vision(Deep learning/CNN) framework/libraries. <br>
 **Library used** - Opencv <br>
-**Codes Executed:** <br>
+**Codes Executed:**
 1. Video streaming
 2. Video stacking
 3. Video saving
@@ -71,7 +76,7 @@
 ## DATA VISUALIZATION STATISTICAL
 **Use case** - used for creating visually appealing, statistically plots with minimal code. <br>
 **Library used** - seaborn <br>
-**Codes Executed:** <br>
+**Codes Executed:**
 1. Bar plot
 2. Box plot
 3. Boxen plot
@@ -92,22 +97,16 @@
 18. Swarn plot
 19. Violin plot
 
-## DATA_VISTA_FINAL_PROJECT
-**Use case** - I have done data analysis and visualization on Auto sales data. Also I have predicted the future sales value using Machine Learning (Facebook Prophet). <br>
-**Library used** - pandas, matplotlib, numpy, seaborn, plotly and facebook prophet <br>
-**Codes Executed:** <br>
-1. Data Loading
-2. Basic Analysis of data like shape and information
-3. Renaming of Columns
-4. Descriptive Summary of both numerical and categorical columns
-5. Dropping unnecessary columns
-6. Checking and adjusting Null values
-7. Bar and line plot
-8. Line plot
-9. Multiple line plot
-10. Multiple bar chart
-11. Pie plot
-12. Treemap plot
-13. Regression plot
-14. Pair plot
-15. Prophet for ML
+## DATA COMPUTATION
+**Use Case** - Commonly used for data analysis, optimization, signal processing, statistical analysis, and linear algebra in scientific and engineering fields. <br>
+**Library Used** - Scipy <br>
+**Codes Executed:**
+1. Optimization - Finds minima, maxima, and solves linear programming problems.
+2. Integration - Calculates numerical integrals for areas and volumes.
+3. Interpolation - Estimates values between data points.
+4. Linear Algebra - Solves linear systems and performs matrix operations.
+5. Statistics - Provides statistical measures and hypothesis tests.
+6. Fourier Transforms - Analyzes signals in the frequency domain.
+7. Signal and Image Processing - Filters signals and processes images.
+8. Ordinary Differential Equation (ODE) Solvers - Solves differential equations.
+9. Special Functions - Includes advanced mathematical functions
